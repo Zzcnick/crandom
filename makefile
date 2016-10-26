@@ -13,3 +13,5 @@ clean:
 cleanH:
 	rm *~
 	rm *.txt
+	rm *.out
+	rm *.o
